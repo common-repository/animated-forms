@@ -1,0 +1,710 @@
+/* Animated Custom Form Styles */
+.pmaf-form, .pmaf-inner {
+	position: relative;
+}
+.pmaf-inner {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.pmaf-form-title-wrap {
+    flex: 0 0 auto;
+    width: 100%;
+}
+.pmaf-inner form {
+    width: 500px;
+	max-width: 100%;
+    padding: 50px;
+}
+@media only screen and (max-width: 600px) {
+	.pmaf-inner form {
+		padding: 20px !important;
+	}
+}
+.pmaf-field, .submit-wrap {
+    padding: 10px;
+	position: relative;
+}
+.pmaf-field label {
+    display: block;
+    margin-bottom: 10px;
+}
+.pmaf-checkbox-single {
+    display: flex;
+    align-items: center;
+}
+.pmaf-checkbox-single label {
+    margin: 0;
+}
+.pmaf-alert-sccess, .pmaf-alert-warning {
+    background: #e0ffc7;
+    border: 1px solid #b4d39b;
+    box-sizing: border-box;
+    color: #333333;
+    margin: 15px auto 24px;
+    padding: 15px;
+    overflow-wrap: break-word;
+}
+.pmaf-alert-warning {
+    background: #ffa433;
+}
+span.pmaf-req-label {
+    margin-left: 4px;
+    color: #e84040;
+}
+span.pmaf-err-ele {
+    color: #e84040;
+    margin-top: 3px;
+    display: block;
+    font-size: 12px;
+}
+.pmaf-field.pmaf-required > textarea.pmaf-err, .pmaf-field.pmaf-required > select.pmaf-err, .pmaf-field.pmaf-required > input.pmaf-err {
+	border-color: #e84040 !important;
+}
+a.pm-af-lost-password-trigger, a.pm-reg-to-login-form {
+    margin-left: 10px;
+}
+/* 01. Text Box Styles */
+.pmaf-field > input[type="text"], .pmaf-field > input[type="url"], .pmaf-field > input[type="password"], .pmaf-field > textarea, .pmaf-field > select, .pmaf-field > input[type="number"], .pmaf-field > input[type="email"] {
+    width: 100%;
+    border-color: #e1e1e1;
+    height: 44px;
+    line-height: 44px;
+	padding: 0;
+	min-height: 30px;
+	box-shadow: 0 0 0 transparent;
+    border-radius: 4px;
+    border: 1px solid #8c8f94;
+    background-color: #fff;
+    color: #2c3338;
+}
+.pmaf-field > textarea {
+    height: auto;
+    min-height: 40px;
+}
+.pmaf-checkbox-single input {
+    margin-right: 8px;
+}
+/* 01. Image Group Styles */
+.pmaf-img-radio-group {
+    display: flex;
+}
+.pmaf-img-radio-single {
+    position: relative;
+    text-align: center;
+    flex-wrap: wrap;
+	width: 25%;	
+	width: calc(25% - 10px);
+    display: inline-flex;
+    margin-right: 10px;
+}
+.pmaf-img-radio-single.selected {
+    background: #ccc;
+}
+.pmaf-img-radio-single input[type="radio"] {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    z-index: 1;
+	cursor: pointer;
+	left: 0;
+    right: 0;
+}
+.pmaf-img-radio-single label {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.pmaf-img-radio-group img {
+    max-width: 150px;
+    padding: 5px;
+    border: solid 1px #f1f1f1;
+    border-radius: 4px;
+    background: #fff;
+	margin: 0 auto;
+}
+span.pmaf-empty-img {
+    width: 150px;
+    padding: 5px;
+    border: solid 1px #f1f1f1;
+    border-radius: 4px;
+    background: #fff;
+    margin: 0 auto;
+    height: 150px;
+    display: block;
+	position: relative;
+}
+span.pmaf-empty-img i {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+	top: 50%;
+    transform: translateY(-50%);
+}
+
+/* 01. Range Slider Styles */
+.pmaf-slider {
+  -webkit-appearance: none;
+  width: 100%;
+  border-radius: 10px;
+  height: 10px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+.pmaf-slider:hover {
+  opacity: 1;
+}
+.pmaf-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 15px;
+  background: #888;
+  cursor: pointer;
+}
+.pmaf-slider::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border-radius: 15px;
+  background: #888;
+  cursor: pointer;
+}
+
+/* 01. File Field Styles */
+.pmaf-img-radio-single.selected {
+    background: #ccc;
+}
+.pmaf-file-inner.pmaf-modern {
+    background-color: #dfc8ca;
+    padding: 50px 30px;
+    text-align: center;
+	position: relative;
+}
+.pmaf-file-inner.pmaf-modern input[type="file"] {
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+.pmaf-modern-file-field figure {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #d3394c;
+    display: block;
+    padding: 20px;
+    margin: 0 auto 10px;
+}
+.pmaf-modern-file-field figure svg {
+    width: 80%;
+    height: 100%;
+    fill: #f1e5e6;
+}
+.pmaf-modern-file-field span {
+    color: #d3394c;
+    font-size: 14px;
+    font-weight: bold;
+}
+.pmaf-img-preview-wrap {
+    display: flex;
+}
+.pmaf-img-preview-item {
+    position: relative;
+	margin-right: 5px;
+}
+.pmaf-img-preview-item .img-bg, .pmaf-img-preview-item .file-bg {
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+	background-color: #ededed;
+}
+.pmaf-img-preview-remove {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    text-align: center;
+    line-height: 24px;
+    z-index: 1;
+    cursor: pointer;
+}
+.pmaf-img-preview-remove:after {
+    content: "\2716";
+    font-size: 14px;
+    color: white;
+}
+.pmaf-img-preview-item .file-bg:before {
+    content: "\26A0";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-size: 30px;
+    transform: translateY(-50%);
+}
+span.pmaf-file-name {
+    font-size: 10px;
+    width: 100px;
+    overflow: hidden;
+    white-space: nowrap;
+    display: inline-block;
+    text-overflow: ellipsis;
+}
+
+/* Consent Styles */
+.pmaf-field.pmaf-field-consent .pmaf-checkbox {
+    display: flex;
+    align-items: start;
+}
+.pmaf-field.pmaf-field-consent .pmaf-checkbox input {
+    margin-top: 8px;
+}
+.pmaf-consent-content {
+    margin-left: 10px;
+}
+
+/* 01. Submit Button Styles */
+input.pmaf-btn.pmaf-submit {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    color: #fff;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+input.pmaf-btn.pmaf-submit :hover {
+    color: #fff;
+    background-color: #0b5ed7;
+    border-color: #0a58ca;
+}
+
+/* Register Form */
+.pmaf-login-form-wrap {
+	display: block;
+}
+.pmaf-login-form-wrap.deactive {
+	display: none;
+}
+.pmaf-regiser-form-wrap, .pmaf-forget-form-wrap {
+	transform: scale(0);
+	height: 0;
+    overflow: hidden;
+    transition: all ease 0.35s;
+}
+.pmaf-regiser-form-wrap.active, .pmaf-forget-form-wrap.active {
+	transform: scale(1);
+	height: auto;
+    overflow: unset;
+}
+
+/* Preview */
+body .pmaf-front-end-preview {
+    position: fixed;
+    height: 100%;
+    top: 0;
+    width: 100%;
+	max-width: 100% !important;
+    background: #fff;
+    z-index: 9999999;
+    left: 0;
+    padding: 0;
+    display: block;
+    right: 0;
+	overflow-y: auto;
+}
+.pmaf-front-end-preview .pmaf-form-wrap {
+    min-height: 100vh;
+}
+body.single-pmaf {
+    overflow: hidden;
+}
+
+
+.entry-content img {
+	box-shadow: none;
+}
+
+/* Animated Form Inner Style 1 */
+.pmaf-inner {
+    padding: 100px 0;
+}
+form.pmaf-fi1 {
+    padding: 50px;
+    background: transparent;
+    border-radius: 20px;
+    width: 450px;
+    height: auto;
+    box-shadow: none;
+    border: 1px solid rgba(255,255,255,0.5);
+    z-index: 999;
+    backdrop-filter: blur(10px);
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+}
+form.pmaf-fi1 .pmaf-field label, form.pmaf-fi1 .pmaf-form-msg  {
+	color: #fff;
+}
+form.pmaf-fi1 .pmaf-field input, form.pmaf-fi1 .pmaf-field textarea {
+    background: transparent;
+	border-color: rgba(255,255,255,0.5);
+	padding: 10px;
+}
+form.pmaf-fi1 input.pmaf-btn.pmaf-submit {
+    height: 44px;
+}
+form.pmaf-fi1 .pmaf-field textarea {
+	height: 120px;
+}
+
+/* Form Inner Style-3 */
+form.pmaf-fi3 {
+    padding: 50px;
+    background: transparent;
+    width: 450px;
+    height: auto;
+    box-shadow: none;
+    z-index: 201;
+    border: 1px solid #fff;
+	border-radius: 10px;
+}
+form.pmaf-fi3 .pmaf-field > input[type="text"], form.pmaf-fi3 .pmaf-field > input[type="url"], form.pmaf-fi3 .pmaf-field > input[type="password"], form.pmaf-fi3 .pmaf-field > textarea, form.pmaf-fi3 .pmaf-field > select, form.pmaf-fi3 .pmaf-field > input[type="number"], form.pmaf-fi3 .pmaf-field > input[type="email"] {
+    border: 0;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    width: 100%;
+    padding: 8px 0 5px 0;
+    font-size: 16px;
+    color: #fff;
+	height: 42px;
+    box-shadow: none;
+    vertical-align: middle;
+	transition: border-color .5s ease;
+}
+form.pmaf-fi3 .pmaf-field {
+    position: relative;
+    margin-bottom: 25px;
+	padding: 0;
+}
+form.pmaf-fi3 .pmaf-field label,  form.pmaf-fi3 .pmaf-form-msg  {
+	font-size: 16px;
+	color: #fff;
+	pointer-events: none;
+}
+form.pmaf-fi3 .pmaf-field input:focus {
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #4687bf;
+}
+form.pmaf-fi3 .pmaf-field > textarea {
+	height: 120px;
+}
+
+/* Form Inner Style-4 */
+form.pmaf-fi4 {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 50px;
+	position: relative;
+    overflow: hidden;
+	border-radius: 10px;
+	background: #1f293a;
+	color: #fff;
+}
+form.pmaf-fi4 .pmaf-field > input[type="text"], form.pmaf-fi4 .pmaf-field > input[type="url"], form.pmaf-fi4 .pmaf-field > input[type="password"], form.pmaf-fi4 .pmaf-field > textarea, form.pmaf-fi4 .pmaf-field > select, form.pmaf-fi4 .pmaf-field > input[type="number"], form.pmaf-fi4 .pmaf-field > input[type="email"] {
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: 2px solid #2c4766;
+    outline: none;
+    border-radius: 6px;
+    font-size: 1em;
+    color: #fff;
+    transition: .5s ease;
+}
+form.pmaf-fi4 .pmaf-field {
+    position: relative;
+    margin-bottom: 25px;
+	padding: 0;
+}
+form.pmaf-fi4 .pmaf-field label, form.pmaf-fi4 .pmaf-form-msg {
+	font-size: 16px;
+	color: #fff;
+	pointer-events: none;
+}
+form.pmaf-fi4 .pmaf-field input:focus {
+    border-color: #0ef;
+}
+form.pmaf-fi4 .submit-wrap input {
+    background: #0ef;
+	border: none;
+	color: #1f293a;
+    width: 100%;
+    border-radius: 6px;
+	transition: all ease .35s;
+	padding: 12px 20px;
+    font-size: 13px;
+    line-height: 18px;
+	position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+	box-shadow: none;
+    vertical-align: middle;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow: none;
+    letter-spacing: .3px;
+    font-weight: 600;
+    cursor: pointer;
+}
+form.pmaf-fi4:before, form.pmaf-fi4:after {
+    content: "";
+    position: absolute;
+    height: 100px;
+    width: 10px;
+    top: -100px;
+    left: 0;
+    background: #ff00ac;
+    border-radius: 10px;
+}
+form.pmaf-fi4:after {
+	left: auto;
+	right: 0;
+	background: #ffac00;
+	bottom: 0;
+	top: auto;	
+}
+form.pmaf-fi4:before {
+	animation-name: slider_top_to_bottom;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+}
+form.pmaf-fi4:after {
+	animation-name: slider_bottom_to_top;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+}
+form.pmaf-fi4:hover:before, form.pmaf-fi4:hover:after {
+	animation-play-state: paused;
+}
+@keyframes slider_top_to_bottom {
+  0% {top: -100px;}
+  50% {top: 100%;}
+  100% {top: -100px;}
+}
+@keyframes slider_bottom_to_top {
+  0% {bottom: -100px; }
+  50% {bottom: 100%;}
+  100% {bottom: -100px; }
+}
+form.pmaf-fi4 .pmaf-field > textarea {
+	height: 120px;
+}
+
+/* Form Inner Style-5 */
+.pmaf-form.pmaf-fi5 {
+    background-color: #fff;
+    border-radius: 10px;
+}
+.pmaf-form.pmaf-fi5 input:not([type="submit"]), .pmaf-form.pmaf-fi5 input:not([type="submit"]), .pmaf-form.pmaf-fi5 textarea, .pmaf-form.pmaf-fi5 select, span.pmaf-empty-img {
+    border-color: #e0e0e0;
+    background-color: #f0f0f0;
+}
+.pmaf-form.pmaf-fi5 input[type="checkbox"], .pmaf-form.pmaf-fi5 input[type="radio"] {
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.pmaf-form.pmaf-fi5 input[data-type="consent"] {
+	margin-right: 0px;
+	width: 20px;
+    height: 20px;
+}
+.pmaf-form.pmaf-fi5 textarea {
+	height: 120px;
+}
+
+/* Form Inner Style-6 */
+.pmaf-form.pmaf-fi6 {
+    background-color: #111;
+    border-radius: 10px;
+}
+.pmaf-form.pmaf-fi6 input:not([type="submit"]), .pmaf-form.pmaf-fi6 input:not([type="submit"]), .pmaf-form.pmaf-fi6 textarea, .pmaf-form.pmaf-fi6 select, span.pmaf-empty-img {
+    border-color: #2c3338;
+    background-color: #1f2124;
+    color: #c3c4c7;
+}
+.pmaf-form.pmaf-fi6 label {
+	color: #c3c4c7;
+}
+.pmaf-form.pmaf-fi6 input[type="checkbox"], .pmaf-form.pmaf-fi6 input[type="radio"] {
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.pmaf-form.pmaf-fi6 input[data-type="consent"] {
+	margin-right: 0px;
+	width: 20px;
+    height: 20px;
+}
+.pmaf-form.pmaf-fi6 textarea {
+	height: 120px;
+}
+
+/* Form Inner Style-7 */
+.pmaf-form.pmaf-fi7 {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+}
+.pmaf-form.pmaf-fi7 input:not([type="submit"]), .pmaf-form.pmaf-fi7 input:not([type="submit"]), .pmaf-form.pmaf-fi7 textarea, .pmaf-form.pmaf-fi7 select, span.pmaf-empty-img {
+    border-color: #c3c4c7;
+    background-color: transparent;
+    color: #ccc;
+}
+.pmaf-form.pmaf-fi7 label {
+    color: #c3c4c7;
+}
+.pmaf-form.pmaf-fi7 input[type="checkbox"], .pmaf-form.pmaf-fi7 input[type="radio"] {
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.pmaf-form.pmaf-fi7 input[data-type="consent"] {
+	margin-right: 0px;
+	width: 20px;
+    height: 20px;
+}
+.pmaf-form.pmaf-fi7 textarea {
+	height: 120px;
+}
+
+/* Form Inner Style-8 */
+.pmaf-form.pmaf-fi8 {
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 10px;
+}
+.pmaf-form.pmaf-fi8 input:not([type="submit"]), .pmaf-form.pmaf-fi8 input:not([type="submit"]), .pmaf-form.pmaf-fi8 textarea, .pmaf-form.pmaf-fi8 select, span.pmaf-empty-img {
+    border-color: #69727d;
+    background-color: transparent;
+}
+.pmaf-form.pmaf-fi8 input[type="checkbox"], .pmaf-form.pmaf-fi8 input[type="radio"] {
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.pmaf-form.pmaf-fi8 input[data-type="consent"] {
+	margin-right: 0px;
+	width: 20px;
+    height: 20px;
+}
+.pmaf-form.pmaf-fi8 textarea {
+	height: 120px;
+}
+
+
+input.pmaf-submit {
+	max-width: 100%;
+}
+/* Button Style - Default */
+input.pmaf-submit.pmaf-btn-default {
+	transition: all ease 0.35s;
+	background-color: #0d6efd;
+    border-color: #0d6efd;
+}
+input.pmaf-submit.pmaf-btn-default:hover {
+	background-color: #111;
+    border-color: #111;
+}
+/* Button Style - Modern */
+input.pmaf-submit.pmaf-btn-modern {
+  margin: 10px;
+  padding: 8px 30px;
+  text-align: center;
+  transition: all ease 0.35s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 10px;
+  border-color: transparent;
+  display: block;
+  border: none;
+  font-weight: 700;
+  box-shadow: 0px 0px 14px -7px #f09819;
+  background-image: linear-gradient(45deg, #FF512F 0%, #F09819  51%, #FF512F  100%);
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+input.pmaf-submit.pmaf-btn-modern:hover {
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
+}
+input.pmaf-submit.pmaf-btn-modern:active {
+  transform: scale(0.95);
+}
+
+/* Button Style - Classic */
+input.pmaf-submit.pmaf-btn-classic {
+    background-color: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    width: auto;
+    border-radius: 6px;
+	transition: all ease .35s;
+	padding: 12px 20px;
+    font-size: 13px;
+    line-height: 18px;
+	position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+	box-shadow: none;
+    vertical-align: middle;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow: none;
+    letter-spacing: .3px;
+    font-weight: 600;
+    cursor: pointer;
+}
+input.pmaf-submit.pmaf-btn-classic:hover {
+    background-color: #fff;
+    border: 1px solid #fff;
+    color: #111;
+}

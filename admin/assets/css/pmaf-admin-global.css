@@ -1,0 +1,136 @@
+.pmaf-btn {
+	border-width: 1px;
+    border-style: solid;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    box-shadow: none;
+    transition-property: all;
+    transition-duration: 0.05s;
+    transition-timing-function: ease-in;
+}	
+.pmaf-btn {
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    padding: 11px 10px;
+}
+.pmaf-btn.pmaf-primary-btn {
+	background-color: #1967d2;
+    border-color: #1967d2;
+    color: #ffffff;
+}
+.pmaf-btn.pmaf-secondary-btn {
+	background-color: #f8f8f8;
+    border-color: #cccccc;
+    color: #777777;
+}
+.pmaf-filled-btn {
+    -webkit-appearance: none;
+    background: #fff;
+    border: 1px solid #dadbdd;
+    border-radius: 7px;
+    box-sizing: border-box;
+    color: #606266;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1;
+    margin: 0;
+    outline: none;
+    padding: 12px 20px;
+    text-align: center;
+    transition: .1s;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    white-space: nowrap;
+    background-color: #1967d2;
+    border-color: #1967d2;
+    color: #fff;
+	transition: all ease 0.35s;
+}
+.pmaf-filled-btn:hover {
+    background-color: #111;
+	color: #fff;
+	border-color: #111;
+}
+.pmaf-filled-btn i {
+    margin-right: 10px;
+}
+#toplevel_page_animated_login_forms ul > li:last-child a,
+#wp-admin-bar-pmaf-menu-default > li:last-child a {
+    font-weight: bold;
+    color: #ff4d01;
+}
+#wp-admin-bar-pmaf-menu-default > li:last-child a {
+	display: block;
+	color: #ff4d01 !important;
+}
+#toplevel_page_animated_login_forms ul > li:last-child a:before,
+#wp-admin-bar-pmaf-menu-default > li:last-child a:before {
+    content: "\e91d";
+    font-family: 'animated-forms' !important;
+    margin-right: 4px;
+	color: #ff4d01 !important;
+}
+#toplevel_page_animated_login_forms ul > li:nth-child(7) a:before,
+#wp-admin-bar-pmaf-menu-default > li:nth-child(6) a:before {
+    content: "\e921";
+    font-family: 'animated-forms' !important;
+    margin-right: 4px;
+}
+#wp-admin-bar-pmaf-menu-default > li:last-child a:before,
+#wp-admin-bar-pmaf-menu-default > li:nth-child(6) a:before {
+	font-size: 13px;
+    margin-top: 4px;
+}
+li#wp-admin-bar-pmaf-menu > a:before {
+    content: "\e922";
+    font-family: 'animated-forms' !important;
+    font-size: 16px !important;
+    margin-top: 3px;
+}
+#wpbody-content {
+	position: relative;
+}
+#wpfooter {
+    position: absolute;
+    margin: 0;
+	left: 0;
+}
+#wpwrap > #wpfooter {
+	left: 180px;
+}
+.notice.notice-pmaf h5 {
+    margin: 10px 0;
+    font-size: 14px;
+}
+.notice.notice-pmaf {
+    border-left-color: #1967d2;
+}
+.pmaf-notice-btns a {
+    font-size: 12px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    margin-top: 4px;
+	margin-right: 10px;
+	padding: 8px 10px;
+}
+.pmaf-filled-btn.pmaf-trans-btn {
+    background: transparent;
+    color: #1967d2;
+}
+a.toplevel_page_animated_login_forms .wp-menu-image img {
+    height: 18px;
+}

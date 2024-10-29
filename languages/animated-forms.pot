@@ -1,0 +1,1626 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Animated Forms\n"
+"POT-Creation-Date: 2024-06-12 16:14+0530\n"
+"PO-Revision-Date: 2024-06-12 16:14+0530\n"
+"Last-Translator: \n"
+"Language-Team: pluginmarket\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/animated-data/class.animated-data.php:39
+msgid "Tree Background Falling Leaf"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:40
+msgid "Green Tree with Mirror Effect"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:41
+msgid "Snow Pine Trees"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:42
+msgid "Moon with Dust Particles"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:43
+msgid "Horse with Bubbles"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:53
+msgid "Tree Background"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:54
+msgid "Green Tree"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:55
+msgid "Snow Pine Tree"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:56
+msgid "Full Moon"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:57
+msgid "Horse Grid"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:69
+msgid "Falling Leaf"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:70
+msgid "Water Drop Effect"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:71
+msgid "Dancing Elements"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:72
+msgid "Loader Animation"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:73
+msgid "Predator Grids"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:74
+msgid "Moving Grid Elements"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:75
+msgid "Animated Square Elements"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:76
+msgid "Evil Home"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:77
+msgid "Bubbles Up"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:78
+msgid "Moving Balls"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:79
+msgid "Zoomout Balls"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:80
+msgid "Mini Particles 1"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:81
+msgid "Blasting Balls"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:82
+msgid "Spider Grids"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:83
+msgid "Background Waves"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:84
+msgid "Background Moving Vectors"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:85
+msgid "Mousehover Stars"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:86
+msgid "Colorful Waves"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:87
+msgid "Colorful Heart"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:88
+msgid "Mirror Rain Drops"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:89
+msgid "Snow Fall"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:90
+msgid "Nature Clouds Animation"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:91
+msgid "Day and Night Rotation"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:92
+msgid "Night Stars"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:93
+msgid "Dust Particles"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:105
+msgid "Blurred Mirror"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:106
+msgid "Blue Bubbles"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:140
+msgid "Simple Form"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:140
+msgid ""
+"Collect the names, emails, and messages from site visitors that need to talk "
+"to you."
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:141
+msgid "Appointment Form"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:141
+msgid ""
+"Schedule appointments by collecting details such as name, email, phone "
+"number, and address."
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:142
+msgid "Tutor Appointment Form"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:142
+msgid ""
+"Collects student's name, parent's details, and preferred tutoring type to "
+"better serve educational needs."
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:143
+msgid "New Customer Registration Form"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:143
+msgid ""
+"Facilitates onboarding by collecting full name, email, contact details, and "
+"address with mandatory fields."
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:144
+msgid "Business Registration Form"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:144
+msgid ""
+"Officially register a business, gathering owner's details, business name, "
+"contact, and address."
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:145
+msgid "Quick Emergency Contact Form"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:145
+msgid ""
+"Medical professionals quickly gather essential details from the form, "
+"including name, email, phone, relationship, and message."
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:146
+msgid "Photo Contest Entry Form"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:146
+msgid ""
+"Participants can provide name, email, comments, and photos for evaluation "
+"and recognition in the contest."
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:147
+msgid "Petition Letter Form"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:147
+msgid ""
+"Raise a request to address your concern to authorities by providing details "
+"such as name, title, organization, subject, and body of the petition."
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:148
+msgid "Casting Fill-Out Form"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:148
+msgid ""
+"The form collects essential information such as name, email, address, "
+"casting roles, and a cover letter from models."
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:149
+msgid "Real Estate Contact Form"
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:149
+msgid ""
+"Gather information from buyers, including their names, contact details, "
+"preferred areas, and referrals to facilitate property sales."
+msgstr ""
+
+#: admin/animated-data/class.animated-data.php:196
+#: admin/animated-data/class.animated-data.php:201
+#: admin/animated-data/class.animated-data.php:205
+msgid "An unknown API error occurred."
+msgstr ""
+
+#: admin/animated-data/class.image-import.php:153
+msgid "Could not create temporary file."
+msgstr ""
+
+#: admin/animated-data/class.image-import.php:175
+#, php-format
+msgid "Request failed due to an error: %1$s (%2$s)"
+msgstr ""
+
+#: admin/animated-data/class.image-import.php:238
+#, php-format
+msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
+msgstr ""
+
+#: admin/animated-data/class.image-import.php:252
+msgid "Remote server did not respond"
+msgstr ""
+
+#: admin/animated-data/class.image-import.php:259
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: admin/animated-data/class.image-import.php:264
+msgid "Downloaded file has incorrect size"
+msgstr ""
+
+#: admin/animated-data/class.image-import.php:270
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: admin/animated-data/class.image-import.php:326
+msgid "The uploaded file could not be moved"
+msgstr ""
+
+#: admin/class.admin-ajax-functions.php:450
+#: admin/class.admin-ajax-functions.php:645 admin/pages/form-editor.php:135
+msgid "Selceted Form Inner Style"
+msgstr ""
+
+#: admin/class.admin-ajax-functions.php:525
+#: admin/class.admin-ajax-functions.php:624
+#: admin/class.admin-ajax-functions.php:680 admin/pages/form-editor.php:126
+#: admin/pages/login-form-editor.php:73
+msgid "Selceted Overlay"
+msgstr ""
+
+#: admin/class.admin-ajax-functions.php:700 admin/pages/entries.php:42
+#: admin/pages/entries.php:50 inc/class.entries.php:124
+msgid "All"
+msgstr ""
+
+#: admin/class.admin-ajax-functions.php:701 admin/pages/entry.php:112
+#: inc/class.entries.php:125
+msgid "Unread"
+msgstr ""
+
+#: admin/class.admin-ajax-functions.php:702 admin/pages/entry.php:112
+#: inc/class.entries.php:126
+msgid "Read"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:73 admin/pages/form-editor.php:71
+msgid "Simple Text"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:74 admin/pages/form-editor.php:77
+msgid "Numbers"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:75 admin/pages/form-editor.php:72
+msgid "Paragraph Text"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:76
+msgid "Select"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:77
+msgid "Choices"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:78 admin/pages/form-editor.php:75
+msgid "Checkboxes"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:79 admin/pages/form-editor.php:76
+msgid "Image Radio"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:80 admin/pages/form-editor.php:78
+msgid "Email"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:81 admin/pages/form-editor.php:79
+msgid "Number Slider"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:82
+msgid "File Upload"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:83
+msgid "General"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:84
+msgid "Attributes"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:85
+msgid "Label"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:86
+msgid "Description"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:87
+msgid "Required"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:88
+msgid "CSS Class Names"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:89
+msgid "CSS ID"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:90
+msgid "Value Display"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:91
+msgid "Option"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:92
+msgid "Make default"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:93
+msgid "Add more"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:94
+msgid "Remove"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:95
+msgid "Default"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:96
+msgid "Advanced"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:97
+msgid "Placeholder"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:98
+msgid "Choice"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:99
+msgid "Options"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:100
+msgid "Field Name"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:101
+msgid ""
+"This field should not be empty. If it belongs empty, then field will not "
+"appear in front."
+msgstr ""
+
+#: admin/class.pmaf-menu.php:102
+msgid "Minumum Value"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:103
+msgid "Maximum Value"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:104
+msgid "Step"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:105
+msgid "Selected Value"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:106
+msgid "Accept Formats"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:107
+msgid "Max File Size"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:108
+msgid "Enter file size without mention MB. Example 5"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:109
+msgid "Form Options"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:110
+msgid "Model"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:111
+msgid "Classic"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:112
+msgid "Modern"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:113
+msgid "No.of Files"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:114
+msgid "You haven't created any fields yet. Start by adding some!"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:114
+msgid ""
+"Choose from our diverse range of fields and begin constructing your form!"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:115
+msgid "Choose or drag a file."
+msgstr ""
+
+#: admin/class.pmaf-menu.php:116
+msgid "File field available only in pro."
+msgstr ""
+
+#: admin/class.pmaf-menu.php:117
+msgid "Get Pro."
+msgstr ""
+
+#: admin/class.pmaf-menu.php:143 admin/pages/entry.php:113
+#: inc/class.entries.php:134
+msgid "Liked"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:144
+msgid "Make this favourite"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:148
+#, php-format
+msgid "Entry %1$s - Animated Form"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:169 admin/pages/settings.php:48
+msgid "Save Settings"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:170
+msgid "Generating.."
+msgstr ""
+
+#: admin/class.pmaf-menu.php:182 admin/class.pmaf-menu.php:183
+#: admin/pages/admin-header.php:13 admin/pages/forms.php:14
+#: admin/pages/import.php:14 admin/pages/new-forms.php:14
+#: admin/pages/welcome.php:19 admin/post-type/class.pmaf-post.php:15
+#: admin/post-type/class.pmaf-post.php:16
+msgid "Animated Forms"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:204 admin/class.pmaf-menu.php:205
+#: admin/pages/form-templates/form-templates.php:57
+msgid "All Forms"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:214 admin/class.pmaf-menu.php:215
+msgid "New Form"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:224 admin/class.pmaf-menu.php:225
+#: admin/pages/admin-header.php:19 admin/pages/form-editor.php:54
+msgid "Entries"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:234 admin/pages/settings.php:17
+#: admin/pages/settings.php:23
+msgid "Animated Forms Settings"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:235
+msgid "Global Settings"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:255
+msgid "Animated Forms Import"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:256
+msgid "Import/Export"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:310 admin/pages/admin-header.php:22
+#: admin/pages/form-editor.php:52
+msgid "Settings"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:311 admin/pages/admin-header.php:26
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:320
+msgid "View Animated Forms Documentation"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:320
+msgid "Docs & Demo"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:321
+msgid "View Animated Forms Support"
+msgstr ""
+
+#: admin/class.pmaf-menu.php:321
+msgid "Support"
+msgstr ""
+
+#: admin/pages/admin-header.php:17
+msgid "Forms"
+msgstr ""
+
+#: admin/pages/admin-header.php:18
+msgid "Add New"
+msgstr ""
+
+#: admin/pages/admin-header.php:20
+#: admin/pages/form-templates/form-templates.php:67
+msgid "Form Templates"
+msgstr ""
+
+#: admin/pages/admin-header.php:21
+msgid "Import & Export"
+msgstr ""
+
+#: admin/pages/edit.php:13
+msgid "Animated Forms Edit"
+msgstr ""
+
+#: admin/pages/entries.php:14
+msgid "Animated Forms Entries"
+msgstr ""
+
+#: admin/pages/entries.php:25
+msgid "Choose Form: "
+msgstr ""
+
+#: admin/pages/entries.php:31
+msgid "Choose Form"
+msgstr ""
+
+#: admin/pages/entries.php:40
+msgid "Read Status: "
+msgstr ""
+
+#: admin/pages/entries.php:43
+msgid "Unread Only"
+msgstr ""
+
+#: admin/pages/entries.php:44
+msgid "Read Only"
+msgstr ""
+
+#: admin/pages/entries.php:48
+msgid "Favourites: "
+msgstr ""
+
+#: admin/pages/entries.php:51
+msgid "Favourites"
+msgstr ""
+
+#: admin/pages/entries.php:52
+msgid "Non-favourites"
+msgstr ""
+
+#: admin/pages/entries.php:54
+msgid "Reset"
+msgstr ""
+
+#: admin/pages/entry.php:32
+msgid "Animated Forms Entry"
+msgstr ""
+
+#: admin/pages/entry.php:42
+msgid "Previous"
+msgstr ""
+
+#: admin/pages/entry.php:46
+msgid "Next"
+msgstr ""
+
+#: admin/pages/entry.php:49
+msgid "All Entries"
+msgstr ""
+
+#: admin/pages/entry.php:56
+msgid " Form Entry Data"
+msgstr ""
+
+#: admin/pages/entry.php:97
+msgid "Submission Informations"
+msgstr ""
+
+#: admin/pages/entry.php:109
+msgid "Entry ID"
+msgstr ""
+
+#: admin/pages/entry.php:110
+msgid "Source URL"
+msgstr ""
+
+#: admin/pages/entry.php:111
+msgid "User IP"
+msgstr ""
+
+#: admin/pages/entry.php:112
+msgid "Read Status"
+msgstr ""
+
+#: admin/pages/entry.php:113 inc/class.entries.php:120
+msgid "Favourite"
+msgstr ""
+
+#: admin/pages/entry.php:113 inc/class.entries.php:134
+msgid "Make this favourite list"
+msgstr ""
+
+#: admin/pages/entry.php:114
+msgid "Submitted On"
+msgstr ""
+
+#: admin/pages/form-editor.php:33
+msgid "Preview"
+msgstr ""
+
+#: admin/pages/form-editor.php:34
+msgid "Fields Editor"
+msgstr ""
+
+#: admin/pages/form-editor.php:38 admin/pages/login-form-editor.php:34
+msgid "Save"
+msgstr ""
+
+#: admin/pages/form-editor.php:39
+msgid "Save for a updated preview."
+msgstr ""
+
+#: admin/pages/form-editor.php:50 admin/pages/login-form-editor.php:45
+msgid "New"
+msgstr ""
+
+#: admin/pages/form-editor.php:51
+msgid "Fields"
+msgstr ""
+
+#: admin/pages/form-editor.php:53
+msgid "Notification"
+msgstr ""
+
+#: admin/pages/form-editor.php:55 admin/pages/login-form-editor.php:46
+msgid "Animation"
+msgstr ""
+
+#: admin/pages/form-editor.php:56
+#: admin/pages/form-templates/overlay-templates.php:84
+msgid "Get Pro"
+msgstr ""
+
+#: admin/pages/form-editor.php:69
+msgid "Standard Fields"
+msgstr ""
+
+#: admin/pages/form-editor.php:73
+msgid "Dropdown"
+msgstr ""
+
+#: admin/pages/form-editor.php:74
+msgid "Radio Buttons"
+msgstr ""
+
+#: admin/pages/form-editor.php:81
+msgid "File Fields"
+msgstr ""
+
+#: admin/pages/form-editor.php:83
+msgid "File Upload(pro)"
+msgstr ""
+
+#: admin/pages/form-editor.php:88
+msgid "Basic Settings"
+msgstr ""
+
+#: admin/pages/form-editor.php:90
+msgid "Secutiry Settings"
+msgstr ""
+
+#: admin/pages/form-editor.php:92
+msgid "Style Settings"
+msgstr ""
+
+#: admin/pages/form-editor.php:96
+msgid "Form Notifications Settings"
+msgstr ""
+
+#: admin/pages/form-editor.php:98
+msgid "Default Notifications Settings"
+msgstr ""
+
+#: admin/pages/form-editor.php:100
+msgid "Confirmation Settings"
+msgstr ""
+
+#: admin/pages/form-editor.php:104
+msgid "Form Entries Settings"
+msgstr ""
+
+#: admin/pages/form-editor.php:109 admin/pages/login-form-editor.php:56
+msgid "Pre-Defined"
+msgstr ""
+
+#: admin/pages/form-editor.php:110 admin/pages/login-form-editor.php:57
+msgid "Custom"
+msgstr ""
+
+#: admin/pages/form-editor.php:116 admin/pages/login-form-editor.php:63
+msgid "Import Animation"
+msgstr ""
+
+#: admin/pages/form-editor.php:120 admin/pages/login-form-editor.php:67
+msgid "Outer Layer Animation Settings"
+msgstr ""
+
+#: admin/pages/form-editor.php:121 admin/pages/login-form-editor.php:68
+msgid "Import Background"
+msgstr ""
+
+#: admin/pages/form-editor.php:123 admin/pages/login-form-editor.php:70
+msgid "Overlay Settings"
+msgstr ""
+
+#: admin/pages/form-editor.php:124 admin/pages/login-form-editor.php:71
+msgid "Import Overlay"
+msgstr ""
+
+#: admin/pages/form-editor.php:129
+msgid "Form Settings"
+msgstr ""
+
+#: admin/pages/form-editor.php:130
+msgid "Import Form Styles"
+msgstr ""
+
+#: admin/pages/form-editor.php:139 admin/pages/login-form-editor.php:76
+msgid "Labels Animation Settings"
+msgstr ""
+
+#: admin/pages/form-editor.php:141 admin/pages/login-form-editor.php:78
+msgid "Input Box Animation Settings"
+msgstr ""
+
+#: admin/pages/form-editor.php:143 admin/pages/login-form-editor.php:80
+msgid "Button Settings"
+msgstr ""
+
+#: admin/pages/form-templates/animated-templates.php:44
+#: admin/pages/form-templates/form-inner-templates.php:45
+#: admin/pages/form-templates/form-templates.php:98
+#: admin/pages/form-templates/form-templates.php:114
+#: admin/pages/form-templates/overlay-templates.php:77
+#: admin/pages/form-templates/pack-templates.php:79 admin/pages/forms.php:34
+msgid "Import"
+msgstr ""
+
+#: admin/pages/form-templates/form-inner-templates.php:28
+msgid "Form Inner Templates"
+msgstr ""
+
+#: admin/pages/form-templates/form-templates.php:9
+#: admin/post-type/class.pmaf-post.php:18
+#: admin/post-type/class.pmaf-post.php:21
+msgid "New Animated Form"
+msgstr ""
+
+#: admin/pages/form-templates/form-templates.php:85
+msgid "Blank Form"
+msgstr ""
+
+#: admin/pages/form-templates/form-templates.php:86
+msgid ""
+"The blank form allows you to create any type of form using our drag & drop "
+"builder."
+msgstr ""
+
+#: admin/pages/form-templates/form-templates.php:88
+msgid "Create Blank Form"
+msgstr ""
+
+#: admin/pages/form-templates/form-templates.php:93
+#: admin/plugin-options/config.php:74
+msgid "Login Form"
+msgstr ""
+
+#: admin/pages/form-templates/form-templates.php:95
+msgid "Login and Register Form"
+msgstr ""
+
+#: admin/pages/form-templates/form-templates.php:96
+msgid ""
+"Login form with registration and forget password form will be optional. For "
+"more reference check Login Settings in Animated Forms menu."
+msgstr ""
+
+#: admin/pages/form-templates/form-templates.php:99
+#: admin/pages/form-templates/form-templates.php:115
+msgid "View Demo"
+msgstr ""
+
+#: admin/pages/form-templates/overlay-templates.php:32
+msgid "Downloaded Overlay Templates"
+msgstr ""
+
+#: admin/pages/form-templates/overlay-templates.php:47
+msgid "Use Template"
+msgstr ""
+
+#: admin/pages/form-templates/overlay-templates.php:57
+msgid "Overlay Templates"
+msgstr ""
+
+#: admin/pages/form-templates/overlay-templates.php:70
+msgid "Pro"
+msgstr ""
+
+#: admin/pages/form-templates/pack-templates.php:40
+msgid "All Templates"
+msgstr ""
+
+#: admin/pages/form-templates/pack-templates.php:49
+msgid "Templates"
+msgstr ""
+
+#: admin/pages/forms.php:32
+msgid "Create Form"
+msgstr ""
+
+#: admin/pages/forms.php:33
+msgid "or"
+msgstr ""
+
+#: admin/pages/forms.php:38 admin/pages/forms.php:39
+#: admin/plugin-options/config.php:7
+msgid "None"
+msgstr ""
+
+#: admin/pages/forms.php:38
+msgid "Bulk Select"
+msgstr ""
+
+#: admin/pages/forms.php:38
+msgid "Select All"
+msgstr ""
+
+#: admin/pages/forms.php:38
+msgid "Unselect All"
+msgstr ""
+
+#: admin/pages/forms.php:39
+msgid "Export"
+msgstr ""
+
+#: admin/pages/forms.php:39 inc/class.entries.php:133
+msgid "Delete"
+msgstr ""
+
+#: admin/pages/forms.php:41
+msgid "Bulk Operation"
+msgstr ""
+
+#: admin/pages/forms.php:72 inc/class.entries.php:120
+msgid "ID"
+msgstr ""
+
+#: admin/pages/forms.php:72
+msgid "Form Name"
+msgstr ""
+
+#: admin/pages/forms.php:72
+msgid "Shortcode"
+msgstr ""
+
+#: admin/pages/forms.php:72
+msgid "Active/Inactive"
+msgstr ""
+
+#: admin/pages/forms.php:72
+msgid "Author"
+msgstr ""
+
+#: admin/pages/forms.php:72
+msgid "Updated Date"
+msgstr ""
+
+#: admin/pages/forms.php:102
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: admin/pages/forms.php:112 admin/pages/import.php:24
+msgid "Upload Campaign Exported XML File"
+msgstr ""
+
+#: admin/pages/forms.php:113 admin/pages/import.php:25
+msgid "Choose .json file to upload, then click \"Upload file and import\"."
+msgstr ""
+
+#: admin/pages/forms.php:116 admin/pages/import.php:28
+msgid "Choose files from your computer:"
+msgstr ""
+
+#: admin/pages/forms.php:117 admin/pages/import.php:29
+msgid "(Maximum size: 40 MB)"
+msgstr ""
+
+#: admin/pages/forms.php:124 admin/pages/import.php:36
+msgid "Upload file and import"
+msgstr ""
+
+#: admin/pages/license.php:13 admin/pages/welcome.php:13
+msgid "Animated Forms Dashboard"
+msgstr ""
+
+#: admin/pages/license.php:19
+msgid "Animated Forms License Active/Deactive"
+msgstr ""
+
+#: admin/pages/welcome.php:25
+msgid "Why Choose Our Animated Login Forms Plugin?"
+msgstr ""
+
+#: admin/pages/welcome.php:26
+msgid ""
+"Our solution stands out with a prebuilt aesthetic design and an advanced "
+"AJAX login form, seamlessly combining functionality with a user-friendly "
+"interface. Our algorithm ensures hassle-free registration form creation, "
+"offering options for easy setup of Registration, Login, and Forget Password "
+"forms to save you time."
+msgstr ""
+
+#: admin/pages/welcome.php:32
+msgid "Key Features:"
+msgstr ""
+
+#: admin/pages/welcome.php:34
+msgid "User-Friendly Interface:"
+msgstr ""
+
+#: admin/pages/welcome.php:34
+msgid ""
+"Experience a visually appealing and intuitive form layout that effortlessly "
+"guides users through the registration process."
+msgstr ""
+
+#: admin/pages/welcome.php:35
+msgid "Customization:"
+msgstr ""
+
+#: admin/pages/welcome.php:35
+msgid ""
+"Tailor your forms to perfection with the plugin's easy customization "
+"options, allowing you to personalize field labels, layout preferences, and "
+"more to align seamlessly with your specific needs and branding preferences."
+msgstr ""
+
+#: admin/pages/welcome.php:36
+msgid "Security:"
+msgstr ""
+
+#: admin/pages/welcome.php:36
+msgid ""
+"The plugin's robust security features ensure the utmost protection for your "
+"data and maintain a secure environment."
+msgstr ""
+
+#: admin/pages/welcome.php:37
+msgid "Easy Registration:"
+msgstr ""
+
+#: admin/pages/welcome.php:37
+msgid ""
+"Set up a Registration form seamlessly in minutes. Crafted to be "
+"exceptionally user-friendly, it demands no coding expertise, ensuring a "
+"smooth and efficient experience for all users."
+msgstr ""
+
+#: admin/pages/welcome.php:41
+msgid "Shortcodes:"
+msgstr ""
+
+#: admin/pages/welcome.php:43
+msgid "It has Login, Register and Forget forms."
+msgstr ""
+
+#: admin/pages/welcome.php:44
+msgid ""
+"Embed this short code in a Post, Page, or any content to showcase a "
+"comprehensive login form on your WordPress site. This feature facilitates "
+"New User Registrations and allows existing customers to Log In seamlessly "
+"using their username and password. Also, it includes 'Lost Password' "
+"functionality, assisting users who have forgotten their login credentials."
+msgstr ""
+
+#: admin/pages/welcome.php:45
+msgid ""
+"Ensure that 'Anyone can register' is enabled in the General Settings for "
+"proper functionality"
+msgstr ""
+
+#: admin/pages/welcome.php:60
+msgid "View Documentation"
+msgstr ""
+
+#: admin/pages/welcome.php:68
+msgid "Need Help?"
+msgstr ""
+
+#: admin/pages/welcome.php:76
+msgid "Give Us Rating"
+msgstr ""
+
+#: admin/plugin-options/config.php:17
+msgid "General Settings"
+msgstr ""
+
+#: admin/plugin-options/config.php:24
+msgid "Required Format Text"
+msgstr ""
+
+#: admin/plugin-options/config.php:25
+msgid "Place required character or html text. (HTML code allowed here)"
+msgstr ""
+
+#: admin/plugin-options/config.php:80
+msgid "Login Form Settings"
+msgstr ""
+
+#: admin/plugin-options/config.php:81
+msgid "These are login form settings"
+msgstr ""
+
+#: admin/plugin-options/config.php:86
+msgid "Enable Remember Me"
+msgstr ""
+
+#: admin/plugin-options/config.php:87
+msgid "Check this option to enable login form remember me"
+msgstr ""
+
+#: admin/plugin-options/config.php:92
+msgid "Enable Register Link"
+msgstr ""
+
+#: admin/plugin-options/config.php:93
+msgid "Check this option to enable login form registration link"
+msgstr ""
+
+#: admin/plugin-options/config.php:98
+msgid "Enable Forget Password"
+msgstr ""
+
+#: admin/plugin-options/config.php:99
+msgid "Check this option to enable login form forget password link"
+msgstr ""
+
+#: admin/plugin-options/config.php:104
+msgid "Login Form Labels"
+msgstr ""
+
+#: admin/plugin-options/config.php:105
+msgid "These are login form labels settings"
+msgstr ""
+
+#: admin/plugin-options/config.php:110
+msgid "Username"
+msgstr ""
+
+#: admin/plugin-options/config.php:111 admin/plugin-options/config.php:237
+msgid "Username Label"
+msgstr ""
+
+#: admin/plugin-options/config.php:112
+msgid "Write label for username box"
+msgstr ""
+
+#: admin/plugin-options/config.php:117
+msgid "Password"
+msgstr ""
+
+#: admin/plugin-options/config.php:118 admin/plugin-options/config.php:244
+msgid "Password Label"
+msgstr ""
+
+#: admin/plugin-options/config.php:119
+msgid "Write label for password box"
+msgstr ""
+
+#: admin/plugin-options/config.php:124
+msgid "Login"
+msgstr ""
+
+#: admin/plugin-options/config.php:125
+msgid "Login Button Label"
+msgstr ""
+
+#: admin/plugin-options/config.php:126
+msgid "Write label for login button"
+msgstr ""
+
+#: admin/plugin-options/config.php:131 admin/plugin-options/config.php:250
+msgid "Register"
+msgstr ""
+
+#: admin/plugin-options/config.php:132
+msgid "Register Link Text"
+msgstr ""
+
+#: admin/plugin-options/config.php:133
+msgid "Write label text for register link"
+msgstr ""
+
+#: admin/plugin-options/config.php:140
+msgid "Register Link Separator"
+msgstr ""
+
+#: admin/plugin-options/config.php:146
+msgid "Lost your password?"
+msgstr ""
+
+#: admin/plugin-options/config.php:147
+msgid "Forget Password Link Text"
+msgstr ""
+
+#: admin/plugin-options/config.php:148
+msgid "Write label text for forget password link"
+msgstr ""
+
+#: admin/plugin-options/config.php:154
+msgid "Remember me"
+msgstr ""
+
+#: admin/plugin-options/config.php:155
+msgid "Remember Me Label"
+msgstr ""
+
+#: admin/plugin-options/config.php:156
+msgid "Write label text for remember me"
+msgstr ""
+
+#: admin/plugin-options/config.php:162 admin/plugin-options/config.php:299
+#: inc/class.shortcodes.php:543 inc/class.shortcodes.php:600
+#: inc/class.shortcodes.php:646
+msgid "Verifying user info, please wait..."
+msgstr ""
+
+#: admin/plugin-options/config.php:163
+msgid "Login Submit Message"
+msgstr ""
+
+#: admin/plugin-options/config.php:164
+msgid "This message will shown while login submission"
+msgstr ""
+
+#: admin/plugin-options/config.php:169
+msgid "Successfully logged in.. Redirecting..."
+msgstr ""
+
+#: admin/plugin-options/config.php:170
+msgid "Login Success Message"
+msgstr ""
+
+#: admin/plugin-options/config.php:171 admin/plugin-options/config.php:178
+msgid "This message will shown after login submission success"
+msgstr ""
+
+#: admin/plugin-options/config.php:176 inc/class.ajax-functions.php:47
+msgid "Wrong username/password.. Try again."
+msgstr ""
+
+#: admin/plugin-options/config.php:177
+msgid "Login Failed Message"
+msgstr ""
+
+#: admin/plugin-options/config.php:183
+msgid "pmaf-login-security"
+msgstr ""
+
+#: admin/plugin-options/config.php:184
+msgid "Login Security Nonce"
+msgstr ""
+
+#: admin/plugin-options/config.php:185
+msgid "Enter nonce value for login form submission."
+msgstr ""
+
+#: admin/plugin-options/config.php:191
+msgid "Register Form"
+msgstr ""
+
+#: admin/plugin-options/config.php:197
+msgid "Register Form Settings"
+msgstr ""
+
+#: admin/plugin-options/config.php:198
+msgid "These are register form settings"
+msgstr ""
+
+#: admin/plugin-options/config.php:203
+msgid "Enable Required for Name"
+msgstr ""
+
+#: admin/plugin-options/config.php:204
+msgid "Check this option to enable required condition for name field"
+msgstr ""
+
+#: admin/plugin-options/config.php:209
+msgid "Enable Required for Nick Name"
+msgstr ""
+
+#: admin/plugin-options/config.php:210
+msgid "Check this option to enable required condition for nick name field"
+msgstr ""
+
+#: admin/plugin-options/config.php:215
+msgid "Your Name"
+msgstr ""
+
+#: admin/plugin-options/config.php:216
+msgid "Name Label"
+msgstr ""
+
+#: admin/plugin-options/config.php:217
+msgid "Write label for your name"
+msgstr ""
+
+#: admin/plugin-options/config.php:222
+msgid "Your Email"
+msgstr ""
+
+#: admin/plugin-options/config.php:223
+msgid "Your Email Label"
+msgstr ""
+
+#: admin/plugin-options/config.php:224
+msgid "Write label for your email"
+msgstr ""
+
+#: admin/plugin-options/config.php:229
+msgid "Nick Name"
+msgstr ""
+
+#: admin/plugin-options/config.php:230
+msgid "Nick Name Label"
+msgstr ""
+
+#: admin/plugin-options/config.php:231
+msgid "Write label for nick name"
+msgstr ""
+
+#: admin/plugin-options/config.php:236
+msgid "Choose Username"
+msgstr ""
+
+#: admin/plugin-options/config.php:238
+msgid "Write label for username"
+msgstr ""
+
+#: admin/plugin-options/config.php:243
+msgid "Choose Password"
+msgstr ""
+
+#: admin/plugin-options/config.php:245
+msgid "Write label for password label"
+msgstr ""
+
+#: admin/plugin-options/config.php:251
+msgid "Register Button Text"
+msgstr ""
+
+#: admin/plugin-options/config.php:252
+msgid "Write label text for register button"
+msgstr ""
+
+#: admin/plugin-options/config.php:258 admin/plugin-options/config.php:285
+msgid "Back to login"
+msgstr ""
+
+#: admin/plugin-options/config.php:259 admin/plugin-options/config.php:286
+msgid "Lable for Back to Login"
+msgstr ""
+
+#: admin/plugin-options/config.php:260
+msgid ""
+"Write label for back to login from register page. (HTML code allowed here)"
+msgstr ""
+
+#: admin/plugin-options/config.php:265 inc/class.shortcodes.php:37
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#: admin/plugin-options/config.php:266
+msgid "Register Submit Message"
+msgstr ""
+
+#: admin/plugin-options/config.php:267
+msgid "This message will shown while register submission"
+msgstr ""
+
+#: admin/plugin-options/config.php:273
+msgid "Forget Form"
+msgstr ""
+
+#: admin/plugin-options/config.php:279
+msgid "Username or E-mail"
+msgstr ""
+
+#: admin/plugin-options/config.php:280
+msgid "Enter Forget Username Title"
+msgstr ""
+
+#: admin/plugin-options/config.php:287
+msgid ""
+"Write label for back to login from forget form page. (HTML code allowed here)"
+msgstr ""
+
+#: admin/plugin-options/config.php:292
+msgid "Submit"
+msgstr ""
+
+#: admin/plugin-options/config.php:293
+msgid "Submit Button Text"
+msgstr ""
+
+#: admin/plugin-options/config.php:294
+msgid "Write label text for submit button"
+msgstr ""
+
+#: admin/plugin-options/config.php:300
+msgid "Forget Form Submit Message"
+msgstr ""
+
+#: admin/plugin-options/config.php:301
+msgid "This message will shown while forget form submission"
+msgstr ""
+
+#: admin/plugin-options/framework.php:446
+msgid "Upload Image"
+msgstr ""
+
+#: admin/plugin-options/framework.php:447
+msgid "Remove Image"
+msgstr ""
+
+#: admin/post-type/class.pmaf-post.php:19
+msgid "Add New Animated Form"
+msgstr ""
+
+#: admin/post-type/class.pmaf-post.php:20
+msgid "Edit Animated Form"
+msgstr ""
+
+#: admin/post-type/class.pmaf-post.php:22
+msgid "View Animated Form"
+msgstr ""
+
+#: admin/post-type/class.pmaf-post.php:23
+msgid "Search Animated Forms"
+msgstr ""
+
+#: admin/post-type/class.pmaf-post.php:24
+msgid "No Animated Forms found"
+msgstr ""
+
+#: admin/post-type/class.pmaf-post.php:25
+msgid "No Animated Forms found in Trash"
+msgstr ""
+
+#: admin/post-type/class.pmaf-post.php:26
+msgid "Parent Animated Form:"
+msgstr ""
+
+#: admin/post-type/class.pmaf-post.php:27
+msgid "WP Auto Post"
+msgstr ""
+
+#: admin/supports/gutenberg/class.supporter.php:68
+msgid "This route is private."
+msgstr ""
+
+#: inc/class-widget.php:120
+msgctxt "Widget"
+msgid "Title:"
+msgstr ""
+
+#: inc/class-widget.php:129
+msgctxt "Widget"
+msgid "Form:"
+msgstr ""
+
+#: inc/class-widget.php:153
+msgctxt "Widget"
+msgid "Display form name"
+msgstr ""
+
+#: inc/class-widget.php:159
+msgctxt "Widget"
+msgid "Display form description"
+msgstr ""
+
+#: inc/class.ajax-functions.php:46 inc/class.ajax-functions.php:280
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: inc/class.ajax-functions.php:83
+msgid "Username and password field should not be empty and should be valid."
+msgstr ""
+
+#: inc/class.ajax-functions.php:89 inc/class.ajax-functions.php:311
+msgid "Registered successful, redirecting...."
+msgstr ""
+
+#: inc/class.ajax-functions.php:97 inc/class.ajax-functions.php:319
+msgid "Enter valid email/user name!."
+msgstr ""
+
+#: inc/class.ajax-functions.php:112 inc/class.ajax-functions.php:336
+msgid "Enter an username or e-mail address."
+msgstr ""
+
+#: inc/class.ajax-functions.php:118 inc/class.ajax-functions.php:342
+msgid "There is no user registered with that username."
+msgstr ""
+
+#: inc/class.ajax-functions.php:123 inc/class.ajax-functions.php:347
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: inc/class.ajax-functions.php:125 inc/class.ajax-functions.php:349
+msgid "Invalid username or e-mail address."
+msgstr ""
+
+#: inc/class.ajax-functions.php:167 inc/class.ajax-functions.php:391
+msgid "Check your email address for you new password."
+msgstr ""
+
+#: inc/class.ajax-functions.php:169 inc/class.ajax-functions.php:393
+msgid "System is unable to send you mail containg your new password."
+msgstr ""
+
+#: inc/class.ajax-functions.php:171 inc/class.ajax-functions.php:395
+msgid "Oops! Something went wrong while updaing your account."
+msgstr ""
+
+#: inc/class.ajax-functions.php:277
+msgid "Wrong username or password."
+msgstr ""
+
+#: inc/class.entries.php:120
+msgid "Form"
+msgstr ""
+
+#: inc/class.entries.php:120
+msgid "Status"
+msgstr ""
+
+#: inc/class.entries.php:120
+msgid "Created/Updated"
+msgstr ""
+
+#: inc/class.entries.php:133
+msgid "Edit"
+msgstr ""
+
+#: inc/class.entries.php:146
+msgid "!Oops.. No entries found."
+msgstr ""
+
+#: inc/class.entries.php:208
+msgid "First"
+msgstr ""
+
+#: inc/class.entries.php:216
+msgid "previous"
+msgstr ""
+
+#: inc/class.entries.php:245
+msgid "next"
+msgstr ""
+
+#: inc/class.entries.php:254
+msgid "Last"
+msgstr ""
+
+#: inc/class.shortcodes.php:38
+msgid "Please enter valid email!"
+msgstr ""
+
+#: inc/class.shortcodes.php:39
+msgid "Please enter valid username/password!"
+msgstr ""
+
+#: inc/class.shortcodes.php:40
+msgid "Please enter required fields values for registration!"
+msgstr ""
+
+#: inc/class.shortcodes.php:64
+msgid "Form not exists"
+msgstr ""
+
+#: inc/class.shortcodes.php:74
+msgid "Due to security key issue"
+msgstr ""
+
+#: inc/test-widget.php:13
+msgid "A Foo Widget"
+msgstr ""
+
+#: inc/test-widget.php:31
+msgid "Hello, World!"
+msgstr ""
+
+#: inc/test-widget.php:45
+msgid "New title"
+msgstr ""
+
+#: inc/test-widget.php:49
+msgid "Title:"
+msgstr ""

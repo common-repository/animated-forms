@@ -1,0 +1,143 @@
+.pmaf-flex.flex-wrap {
+    justify-content: space-between;
+}
+.pmaf-flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.pmaf-wrap-inner {
+    margin-top: 30px;
+}
+.pmaf-media {
+    display: flex;
+    align-items: center;
+}
+.pmaf-media img {
+    max-width: 60px;
+    margin-right: 15px;
+}
+.pmaf-media h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+p.pmaf-lead {
+    font-size: 16px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 4px;
+    margin-top: 30px;
+}
+.pmaf-activated-wrap {
+    padding: 30px;
+    background: #fff;
+    border-radius: 4px;
+    margin-top: 30px;	
+	margin-bottom: 30px;
+	padding-bottom: 10px;
+}
+.pmaf-row {
+	display: flex;
+    flex-wrap: wrap;
+}
+.pmaf-row > div {
+	width: 25%;
+	margin-bottom: 20px;
+}
+.pmaf-welcome-wrap .pmaf-col-6 {
+    padding: 15px;
+}
+.pmaf-row > .pmaf-col-6 {
+    width: 46%;
+}
+.pmaf-row > .pmaf-activated-posts:not(:last-child) {
+    margin-right: 30px;
+}
+ul.pmaf-key-features {
+    list-style: disc;
+}
+.pmaf-activated-inner {
+	min-height: 100px;
+    border-radius: 10px;
+    margin: 20px 0;
+    padding: 20px;
+    background: rgb(2,0,36);
+    background: linear-gradient(229deg, rgba(2,0,36,1) 0%, rgba(255,32,32,1) 0%, rgba(247,169,34,1) 100%);
+    text-align: center;
+    color: #fff;
+}
+.pmaf-activated-inner .pmaf-count {
+    font-size: 34px;
+    font-weight: bold;
+}
+.pmaf-activated-inner > span {
+	display: block;
+}
+.pmaf-activated-inner .pmaf-activated-title {
+	font-size: 18px;
+    color: #fff;
+    line-height: 26px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 12px;
+    margin-top: 7px;
+}
+.pmaf-admin-table table {
+    border: none;
+    font-size: 10px;
+    box-shadow: 0 3px 16px rgba(0,0,0,0.05), 0 3px 16px rgba(0,0,0,0.05);
+	border-collapse: collapse;
+    letter-spacing: 1px;
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+}
+.pmaf-admin-table table thead {
+    background: #6a737e;
+	text-align: left;
+    color: #fff;
+}
+.pmaf-admin-table table td, .pmaf-admin-table table th {
+    padding: 8px 10px;
+    font-weight: normal;
+    position: relative;
+    font-size: 12px;
+}
+.pmaf-admin-table table tbody {
+    background-color: #e4f0f5;
+}
+.pmaf-admin-table table tbody tr:nth-child(odd) {
+    background: #fff;
+}
+.pmaf-footer {
+    background: #fff;
+    padding: 30px;
+    border-radius: 4px;
+}
+.pmaf-footer a {
+    text-align: center;
+    text-decoration: none;
+}
+.pmaf-footer a .pmaf-list-left span {
+    color: #3f65cf;
+}
+.pmaf-admin-box p {
+    font-size: 14px;
+    line-height: 20px;
+}
+.pmaf-admin-box {
+    padding: 20px;
+    background: #fff;
+    margin: 30px 0;
+    font-size: 14px;
+    line-height: 20px;
+}
+ul.pmaf-btns-list {
+    display: flex;
+}
+ul.pmaf-btns-list > li:not(:last-child) {
+    margin-right: 15px;
+}
+.pmaf-logo-wrap.pmaf-media .pmaf-media-body {
+    margin-left: auto;
+}
